@@ -10,13 +10,14 @@ Not only this! If a human photo is provided, this network is capable of telling 
 
 Detecting dogs:
 
-![Dog detected](https://drive.google.com/uc?export=view&id=1LtVGG3Zvc9qCMy1JWle6PhlthqAOtPkt)
+![Dog detected](imgs/model_dog0.png)
 
 Detecting humans-alike breeds:
-![Human detected](https://drive.google.com/uc?export=view&id=1iYvT_t5ehtnWMtdQdTW6MAoynhSXGqoA)
+![Human detected](imgs/model_human0.png)
+![Human detected](imgs/model_human1.png)
 
 Tricking the network:
-![None detected](https://drive.google.com/uc?export=view&id=10yApNh00nm2ra6PZ3ByHoz0x9UxLkhqn)
+![None detected](imgs/model_de0.png)
 
 
 ## Prerequisites
