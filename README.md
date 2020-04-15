@@ -45,7 +45,7 @@ Dataset is available on kaggle [here](https://www.kaggle.com/c/dog-breed-identif
 If all the libraries are installed correctly open terminal (ctrl + alt + t) or any Python editor of your choice,
 in case you used terminal type <code>python3</code> then type in the following code, it should get executed with no errors:
 
-```
+```python
 import numpy
 import keras
 import matplotlib
