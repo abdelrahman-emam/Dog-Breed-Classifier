@@ -69,4 +69,3 @@ Check out this Blog on Medium [here](https://medium.com/@abdelrahman.aemam96/dog
 
 ## Acknowledgements
 - [Data Science Nanodegree on Udacity](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
-- [Adding Image from google drive](https://stackoverflow.com/questions/52063556/add-image-to-github-readme-md-from-google-drive)
