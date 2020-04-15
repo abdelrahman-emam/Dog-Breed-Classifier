@@ -13,10 +13,12 @@ Detecting dogs:
 ![Dog detected](imgs/model_dog0.png)
 
 Detecting humans-alike breeds:
+
 ![Human detected](imgs/model_human0.png)
 ![Human detected](imgs/model_human1.png)
 
 Tricking the network:
+
 ![None detected](imgs/model_de0.png)
 
 
