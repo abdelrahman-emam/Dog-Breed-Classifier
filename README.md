@@ -53,14 +53,20 @@ import cv2
 import sklearn
 ```
 
-## Running the code
-Now having the correct **libraries** and the **dataset** the code is ready to run the code on your local machine.
+## How the code works
 
-- First, clone the repo using: <code>git clone https://github.com/AbdelrahmanAEmam/Dog-Breed-Classifier.git</code>
-- Second, go to the repo location cd path/to/repo
-- Finally, open dog_app.ipynb (for best practice use jupyter notebook)
+This notebook is broken into separate steps. 
+Step 0: Import Datasets
+Step 1: Detect Humans
+Step 2: Detect Dogs
+Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
+Step 4: Use a CNN to Classify Dog Breeds (using Transfer Learning)
+Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+Step 6: Write your Algorithm
+Step 7: Test Your Algorithm
 
-*Note: You might need to adjust the dataset directories rather than the provided in the notebook*
+## Dataset
+Dataset is available on kaggle [here](https://www.kaggle.com/c/dog-breed-identification/data)
 
 ## Summary
 Using deep learning we knew that each human is sharing some visual features with a certain dog breed.
