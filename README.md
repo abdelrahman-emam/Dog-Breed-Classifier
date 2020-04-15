@@ -8,10 +8,10 @@ The network provided is used to classify among different dog breeds using Keras 
 
 Not only this! If a human photo is provided, this network is capable of telling us which breed is close to this human, here are some insights about what's coming ahead!
 
-![Dog detected](https://drive.google.com/open?id=1LtVGG3Zvc9qCMy1JWle6PhlthqAOtPkt)
-![Human detected](https://drive.google.com/open?id=1iYvT_t5ehtnWMtdQdTW6MAoynhSXGqoA)
-![Human detected](https://drive.google.com/open?id=1zS3uhCsDTI3Qf5Mo0Giy_QR_ZoUH-TI8)
-![None detected](https://drive.google.com/open?id=10yApNh00nm2ra6PZ3ByHoz0x9UxLkhqn)
+![Dog detected](https://drive.google.com/uc?export=view&id=1LtVGG3Zvc9qCMy1JWle6PhlthqAOtPkt)
+![Human detected](https://drive.google.com/uc?export=view&id=1zS3uhCsDTI3Qf5Mo0Giy_QR_ZoUH-TI8)
+![Human detected](https://drive.google.com/uc?export=view&id=1iYvT_t5ehtnWMtdQdTW6MAoynhSXGqoA)
+![None detected](https://drive.google.com/uc?export=view&id=10yApNh00nm2ra6PZ3ByHoz0x9UxLkhqn)
 
 
 ## Prerequisites
