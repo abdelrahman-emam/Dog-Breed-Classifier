@@ -3,7 +3,9 @@ This repo contains the submission of DSND Capstone project (Tested on Ubuntu 16.
 
 ## Getting Started
 The network provided is used to classify among different dog breeds using Keras API.
+
 ![Dog breeds](https://cdn.shopify.com/s/files/1/1876/1163/articles/different_dog_breeds_1024x1024.jpg?v=1549800021)
+
 Not only this! If a human photo is provided, this network is capable of telling us which breed is close to this human, here are some insights about what's coming ahead!
 
 ![Dog detected](https://drive.google.com/open?id=1LtVGG3Zvc9qCMy1JWle6PhlthqAOtPkt)
