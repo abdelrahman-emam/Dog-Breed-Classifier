@@ -58,14 +58,14 @@ import sklearn
 ## How the code works
 
 This notebook is broken into separate steps. 
-Step 0: Import Datasets
-Step 1: Detect Humans
-Step 2: Detect Dogs
-Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
-Step 4: Use a CNN to Classify Dog Breeds (using Transfer Learning)
-Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
-Step 6: Write your Algorithm
-Step 7: Test Your Algorithm
+- Step 0: Import Datasets
+- Step 1: Detect Humans
+- Step 2: Detect Dogs
+- Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
+- Step 4: Use a CNN to Classify Dog Breeds (using Transfer Learning)
+- Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+- Step 6: Write your Algorithm
+- Step 7: Test Your Algorithm
 
 ## Dataset
 Dataset is available on kaggle [here](https://www.kaggle.com/c/dog-breed-identification/data)
